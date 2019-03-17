@@ -8,8 +8,8 @@ aspell -d eo dump master |
 	# nur minusklaj
 	grep "^[abcĉdefgĝhĥijĵklmnoprsŝtuŭvz]"  |
 	# forprenu dom' kaj aliaj mallongigoj
-	# grep -v "'$" |       
+	grep -v "'$" |       
 	# permesu dom' kaj aliaj mallongigoj
-	sed -e "s/'//g" |       
+	# sed -e "s/'//g" |       
 	sort -u
 
