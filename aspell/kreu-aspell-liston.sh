@@ -6,10 +6,13 @@ aspell -d eo dump master |
 	aspell -l eo expand | 
 	tr ' ' '\n' | 
 	# nur minusklaj
-	grep "^[abcĉdefgĝhĥijĵklmnoprsŝtuŭvz]"  |
+	# Forprenu unuliterajn vortojn
+	grep "^[abcĉdefgĝhĥijĵklmnoprsŝtuŭvz][abcĉdefgĝhĥijĵklmnoprsŝtuŭvz]"  |
 	# forprenu senfinaĵajn vortformojn kiel dom'
 	#grep -v "'$" |       
 	# permesu senfinaĵajn vortformojn kiel dom'
 	sed -e "s/'//g" |       
+	# neniuj streketoj
+	grep -v "-" |       
 	sort -u
 
