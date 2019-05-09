@@ -7,9 +7,9 @@ aspell -d eo dump master |
 	tr ' ' '\n' | 
 	# nur minusklaj
 	grep "^[abcĉdefgĝhĥijĵklmnoprsŝtuŭvz]"  |
-	# forprenu dom' kaj aliaj mallongigoj
-	grep -v "'$" |       
-	# permesu dom' kaj aliaj mallongigoj
-	# sed -e "s/'//g" |       
+	# forprenu senfinaĵajn vortformojn kiel dom'
+	#grep -v "'$" |       
+	# permesu senfinaĵajn vortformojn kiel dom'
+	sed -e "s/'//g" |       
 	sort -u
 

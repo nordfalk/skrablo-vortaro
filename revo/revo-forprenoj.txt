@@ -172,3 +172,10 @@ vo
 vu
 zo
 
+# Pliaj ekkrioj
+ruk
+ŭoŭ
+ups
+
+
+zeo
