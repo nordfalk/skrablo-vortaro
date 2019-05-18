@@ -12,7 +12,7 @@ dictionaries:
 
 
 libreoffice-listo.txt: dictionaries eo.aff-skrablo makefile
-	cd dictionaries; cp ../eo.aff-skrablo eo.aff; unmunch eo.dic eo.aff | grep "^[abcĉdefgĝhĥijĵklmnoprsŝtuŭvz]" | grep '½' | cut -d'/' -f1 | sed -e 's/½//g' | sort > ../libreoffice-listo.txt
+	cd dictionaries; cp ../eo.aff-skrablo eo.aff; unmunch eo.dic eo.aff | grep "^[abcĉdefgĝhĥijĵklmnoprsŝtuŭvz]" | grep '½' | cut -d'/' -f1 | sed -e 's/½//g' | sort -u > ../libreoffice-listo.txt
 
 #	cd dictionaries; unmunch eo.dic eo.aff | grep -v '/'  | grep -v "'" | grep "^[abcĉdefgĝhĥijĵklmnoprsŝtuŭvz]"  | sort > ../libreoffice-listo.txt
 	

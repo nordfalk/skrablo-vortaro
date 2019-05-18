@@ -95,7 +95,8 @@ PFX n 0 ne .
 PFX € Y 1
 PFX € 0 E- .
 
-SFX N Y 8
+SFX N Y 9
+SFX N 0 ½ .
 SFX N 0 o½ .
 SFX N 0 on½ .
 SFX N 0 oj½ .
@@ -105,7 +106,8 @@ SFX N 0 an½ .
 SFX N 0 aj½ .
 SFX N 0 ajn½ .
 
-SFX Ñ Y 4
+SFX Ñ Y 5
+SFX Ñ 0 ½ .
 SFX Ñ 0 a½ .
 SFX Ñ 0 an½ .
 SFX Ñ 0 aj½ .
@@ -113,28 +115,41 @@ SFX Ñ 0 ajn½ .
 
 
 #Nur adverbo
-SFX E Y 1
+SFX E Y 2
+SFX E 0 ½ .
 SFX E 0 e½ .
 
 # Adjektiva radiko
 
-SFX A Y 37
+SFX A Y 67
 SFX A 0 0/2XmNEV€ .
+SFX A 0 eg½/2XmNEV .
 SFX A 0 ega½/2XmNEV .
+SFX A 0 et½/2XmNEV .
 SFX A 0 eta½/2XmNEV .
+SFX A 0 ul½/2XmNE€ .
+SFX A 0 ul½/2XmNE€ .
 SFX A 0 ulo½/2XmNE€ .
+SFX A 0 ulin½/2XmNE .
 SFX A 0 ulino½/2XmNE .
+SFX A 0 egul½/2XmNE .
 SFX A 0 egulo½/2XmNE .
+SFX A 0 egulin½/2XmNE .
 SFX A 0 egulino½/2XmNE .
+SFX A 0 etul½/2XmNE .
 SFX A 0 etulo½/2XmNE .
+SFX A 0 etulin½/2XmNE .
 SFX A 0 etulino½/2XmNE .
 SFX A 0 eco½/2XmN .
 SFX A 0 eca½/2XmN .
 SFX A 0 aĵo½/2XmN .
-SFX A 0 egaĵ/2XmN .
-SFX A 0 aĵeg/2XmN .
-SFX A 0 etaĵ/2XmN .
-SFX A 0 aĵet/2XmN .
+SFX A 0 ec½/2XmN .
+SFX A 0 ec½/2XmN .
+SFX A 0 aĵ½/2XmN .
+SFX A 0 egaĵ½/2XmN .
+SFX A 0 aĵeg½/2XmN .
+SFX A 0 etaĵ½/2XmN .
+SFX A 0 aĵet½/2XmN .
 SFX A 0 igo½/2XpV .
 SFX A 0 iga½/2XpnN .
 SFX A 0 igato½/XpnNE .
@@ -143,8 +158,17 @@ SFX A 0 igito½/XpnNE .
 SFX A 0 iganto½/XpnNE .
 SFX A 0 igonto½/XpnNE .
 SFX A 0 iginto½/XpnNE .
-SFX A 0 igil/2XpN .
+SFX A 0 ig½/2XpV .
+SFX A 0 ig½/2XpnN .
+SFX A 0 igat½/XpnNE .
+SFX A 0 igot½/XpnNE .
+SFX A 0 igit½/XpnNE .
+SFX A 0 igant½/XpnNE .
+SFX A 0 igont½/XpnNE .
+SFX A 0 igint½/XpnNE .
+SFX A 0 igil½/2XpN .
 SFX A 0 0/543 .
+SFX A 0 ½/543 .
 SFX A 0 o½/543 .
 SFX A 0 -/543 .
 SFX A 0 ega½/543 .
@@ -156,6 +180,16 @@ SFX A 0 ulo½/543 .
 SFX A 0 aĵo½/543 .
 SFX A 0 aĵa½/543 .
 SFX A 0 iga½/543 .
+SFX A 0 eg½/543 .
+SFX A 0 eg½/543 .
+SFX A 0 et½/543 .
+SFX A 0 et½/543 .
+SFX A 0 ul½/543 .
+SFX A 0 ul½/543 .
+SFX A 0 aĵ½/543 .
+SFX A 0 aĵ½/543 .
+SFX A 0 ig½/543 .
+
 
 # A sen vortfarado
 # pro tre mallongaj radikoj (ul, ad , ...)
