@@ -195,7 +195,7 @@ SFX A 0 ig½/543 .
 # pro tre mallongaj radikoj (ul, ad , ...)
 
 SFX Ā Y 25
-SFX Ā 0 0/XmNEV .
+SFX Ā 0 ½/XmNEV .
 SFX Ā 0 ega½/XmNEV .
 SFX Ā 0 eta½/XmNEV .
 SFX Ā 0 ulo½/XmNE .
@@ -231,7 +231,7 @@ SFX O 0 ' .
 SFX O 0 0/2XN€ .
 SFX O 0 0/543 .
 SFX O 0 o-/543 .
-SFX O 0 -/543 .
+SFX O 0 ½/543 .
 SFX O 0 o½/543 .
 
 SFX Ō Y 1
@@ -239,7 +239,7 @@ SFX Ō 0 0/XN .
 
 # Verba radiko
 
-SFX I Y 18
+SFX I Y 32
 SFX I 0 0/2XV .
 SFX I 0 0/2XnN€ .
 SFX I 0 anto½/2XnNE .
@@ -247,120 +247,169 @@ SFX I 0 antino½/2XnN .
 SFX I 0 onto½/2XnNE .
 SFX I 0 ontino½/2XnN .
 SFX I 0 into½/2XnNE .
-SFX I 0 intino½/2XnN .
+SFX I 0 intino/2XnN .
 SFX I 0 emo½/2XnN .
+SFX I 0 emul½/2XnN .
 SFX I 0 emulo½/2XnN .
-SFX I 0 emulino½/2XnN .
 SFX I 0 povo½/2XnN .
 SFX I 0 kapablo½/2XnN .
 SFX I 0 ado½/2XnN€ .
+SFX I 0 ½/2XV .
+SFX I 0 ½/2XnN€ .
+SFX I 0 ant½/2XnNE .
+SFX I 0 antin½/2XnN .
+SFX I 0 ont½/2XnNE .
+SFX I 0 ontin½/2XnN .
+SFX I 0 int½/2XnNE .
+SFX I 0 into½/2XnN .
+SFX I 0 em½/2XnN .
+SFX I 0 emul½/2XnN .
+SFX I 0 emulo½/2XnN .
+SFX I 0 pov½/2XnN .
+SFX I 0 kapabl½/2XnN .
+SFX I 0 ad½/2XnN€ .
 SFX I 0 0/543 .
 SFX I 0 o½/543 .
 SFX I 0 o-/543 .
 SFX I 0 -/543 .
 
-SFX Ī Y 14
-SFX Ī 0 0/XV .
+SFX Ī Y 26
+SFX Ī 0 ½/XV .
 SFX Ī 0 0/XnN .
 SFX Ī 0 anto½/XnNE .
 SFX Ī 0 antino½/XnN .
 SFX Ī 0 onto½/XnNE .
 SFX Ī 0 ontino½/XnN .
 SFX Ī 0 into½/XnNE .
-SFX Ī 0 intino½/XnN .
+SFX Ī 0 int½/XnN .
 SFX Ī 0 emo½/XnN .
 SFX Ī 0 emulo½/XnN .
-SFX Ī 0 emulino½/XnN .
+SFX Ī 0 emulino/XnN .
 SFX Ī 0 povo½/XnN .
 SFX Ī 0 kapablo½/XnN .
 SFX Ī 0 ado½/XnN .
+SFX Ī 0 ant½/XnNE .
+SFX Ī 0 antin½/XnN .
+SFX Ī 0 ont½/XnNE .
+SFX Ī 0 onto½/XnN .
+SFX Ī 0 int½/XnNE .
+SFX Ī 0 into½/XnN .
+SFX Ī 0 em½/XnN .
+SFX Ī 0 emul½/XnN .
+SFX Ī 0 emulo½/XnN .
+SFX Ī 0 pov½/XnN .
+SFX Ī 0 kapabl½/XnN .
+SFX Ī 0 ad½/XnN .
 
 
-SFX G Y 25
+SFX G Y 47
 SFX G 0 igo½/2XV .
-SFX G 0 ig/2XnN .
+SFX G 0 ig½/2XnN .
 SFX G 0 iganto½/2XnNE .
-SFX G 0 igantino½/2XnN .
+SFX G 0 igantino/2XnN .
 SFX G 0 igonto½/2XnNE .
-SFX G 0 igontino½/2XnN .
+SFX G 0 igontino/2XnN .
 SFX G 0 iginto½/2XnNE .
-SFX G 0 igintino½/2XnN .
+SFX G 0 igintino/2XnN .
 SFX G 0 igemo½/2XnN .
 SFX G 0 igemulo½/2XnN .
-SFX G 0 igemulino½/2XnN .
+SFX G 0 igemulino/2XnN .
 SFX G 0 igpovo½/2XnN .
 SFX G 0 igkapablo½/2XnN .
 SFX G 0 igato½/2XnNE .
-SFX G 0 igatino½/2XnN .
+SFX G 0 igatino/2XnN .
 SFX G 0 igoto½/2XnNE .
-SFX G 0 igotino½/2XnN .
+SFX G 0 igotino/2XnN .
 SFX G 0 igito½/2XnNE .
-SFX G 0 igitino½/2XnN .
+SFX G 0 igitino/2XnN .
 SFX G 0 igind/2XnNE .
-SFX G 0 igindaĵo½/2XnN .
+SFX G 0 igindaĵo/2XnN .
 SFX G 0 igend/2XnNE .
 SFX G 0 igendaĵ/2XnN .
 SFX G 0 igebla½/2XnNE .
-SFX G 0 igeblaĵo½/2XnN .
+SFX G 0 igeblaĵo/2XnN .
+SFX G 0 igant½/2XnNE .
+SFX G 0 igantin/2XnN .
+SFX G 0 igont½/2XnNE .
+SFX G 0 igontin/2XnN .
+SFX G 0 igint½/2XnNE .
+SFX G 0 igintin/2XnN .
+SFX G 0 igem½/2XnN .
+SFX G 0 igemul½/2XnN .
+SFX G 0 igemulin/2XnN .
+SFX G 0 igpov½/2XnN .
+SFX G 0 igkapabl½/2XnN .
+SFX G 0 igat½/2XnNE .
+SFX G 0 igatin/2XnN .
+SFX G 0 igot½/2XnNE .
+SFX G 0 igotin/2XnN .
+SFX G 0 igit½/2XnNE .
+SFX G 0 igitin/2XnN .
+SFX G 0 igind½/2XnNE .
+SFX G 0 igindaĵ/2XnN .
+SFX G 0 igend½/2XnNE .
+SFX G 0 igendaĵ/2XnN .
+SFX G 0 igebla½/2XnNE .
+SFX G 0 igeblaĵ/2XnN .
 
 # ne transitiva
 SFX D Y 13
 SFX D 0 ado½/XV .
-SFX D 0 ad/XnN .
+SFX D 0 ad½/XnN .
 SFX D 0 adanto½/XnNE .
-SFX D 0 adantino½/XnN .
+SFX D 0 adantino/XnN .
 SFX D 0 adonto½/XnNE .
-SFX D 0 adontino½/XnN .
+SFX D 0 adontino/XnN .
 SFX D 0 adinto½/XnNE .
-SFX D 0 adintino½/XnN .
+SFX D 0 adintino/XnN .
 SFX D 0 ademo½/XnN .
 SFX D 0 ademulo½/XnN .
-SFX D 0 ademulino½/XnN .
+SFX D 0 ademulino/XnN .
 SFX D 0 adpovo½/XnN .
 SFX D 0 adkapablo½/XnN .
 
 # transitiva ad
 SFX F Y 25
 SFX F 0 ado½/XV .
-SFX F 0 ad/XnN .
+SFX F 0 ad½/XnN .
 SFX F 0 adanto½/XnNE .
-SFX F 0 adantino½/XnN .
+SFX F 0 adantino/XnN .
 SFX F 0 adonto½/XnNE .
-SFX F 0 adontino½/XnN .
-SFX F 0 adint/XnNE .
+SFX F 0 adontino/XnN .
+SFX F 0 adint½/XnNE .
 SFX F 0 adintin/XnN .
-SFX F 0 adem/XnN .
-SFX F 0 ademul/XnN .
+SFX F 0 adem½/XnN .
+SFX F 0 ademul½/XnN .
 SFX F 0 ademulin/XnN .
-SFX F 0 adpov/XnN .
-SFX F 0 adkapabl/XnN .
-SFX F 0 adat/XnNE .
+SFX F 0 adpov½/XnN .
+SFX F 0 adkapabl½/XnN .
+SFX F 0 adat½/XnNE .
 SFX F 0 adatin/XnN .
-SFX F 0 adot/XnNE .
+SFX F 0 adot½/XnNE .
 SFX F 0 adotin/XnN .
-SFX F 0 adit/XnNE .
+SFX F 0 adit½/XnNE .
 SFX F 0 aditin/XnN .
-SFX F 0 adind/XnN .
-SFX F 0 adindaĵ/XnN .
-SFX F 0 adend/XnN .
-SFX F 0 adendaĵ/XnN .
-SFX F 0 adebl/XnN .
-SFX F 0 adeblaĵ/XnN .
+SFX F 0 adind½/XnN .
+SFX F 0 adindaĵ½/XnN .
+SFX F 0 adend½/XnN .
+SFX F 0 adendaĵ½/XnN .
+SFX F 0 adebl½/XnN .
+SFX F 0 adeblaĵ½/XnN .
 
 SFX ! Y 13
 SFX ! 0 iĝo½/XV .
-SFX ! 0 iĝ/XnN .
-SFX ! 0 iĝant/XnNE .
-SFX ! 0 iĝantin/XnN .
-SFX ! 0 iĝont/XnNE .
+SFX ! 0 iĝ½/XnN .
+SFX ! 0 iĝant½/XnNE .
+SFX ! 0 iĝantin½/XnN .
+SFX ! 0 iĝont½/XnNE .
 SFX ! 0 iĝontin/XnN .
-SFX ! 0 iĝint/XnNE .
+SFX ! 0 iĝint½/XnNE .
 SFX ! 0 iĝintin/XnN .
-SFX ! 0 iĝem/XnN .
-SFX ! 0 iĝemul/XnN .
+SFX ! 0 iĝem½/XnN .
+SFX ! 0 iĝemul½/XnN .
 SFX ! 0 iĝemulin/XnN .
-SFX ! 0 iĝpov/XnN .
-SFX ! 0 iĝkapabl/XnN .
+SFX ! 0 iĝpov½/XnN .
+SFX ! 0 iĝkapabl½/XnN .
 
 SFX ) Y 13
 SFX ) 0 eta½/XV .
@@ -377,123 +426,133 @@ SFX ) 0 etemulin/XnN .
 SFX ) 0 etpov/XnN .
 SFX ) 0 etkapabl/XnN .
 
-SFX § Y 13
+SFX § Y 15
 SFX § 0 ego½/XV .
 SFX § 0 ega½/XnN .
-SFX § 0 egant/XnNE .
+SFX § 0 eg½/XV .
+SFX § 0 eg½/XnN .
+SFX § 0 egant½/XnNE .
 SFX § 0 egantin/XnN .
-SFX § 0 egont/XnNE .
+SFX § 0 egont½/XnNE .
 SFX § 0 egontin/XnN .
-SFX § 0 egint/XnNE .
+SFX § 0 egint½/XnNE .
 SFX § 0 egintin/XnN .
-SFX § 0 egem/XnN .
-SFX § 0 egemul/XnN .
+SFX § 0 egem½/XnN .
+SFX § 0 egemul½/XnN .
 SFX § 0 egemulin/XnN .
-SFX § 0 egpov/XnN .
-SFX § 0 egkapabl/XnN .
+SFX § 0 egpov½/XnN .
+SFX § 0 egkapabl½/XnN .
 
-SFX ? Y 13
+SFX ? Y 15
 SFX ? 0 umo½/XV .
 SFX ? 0 uma½/XnN .
-SFX ? 0 umant/XnNE .
+SFX ? 0 um½/XV .
+SFX ? 0 um½/XnN .
+SFX ? 0 umant½/XnNE .
 SFX ? 0 umantin/XnN .
-SFX ? 0 umont/XnNE .
+SFX ? 0 umont½/XnNE .
 SFX ? 0 umontin/XnN .
-SFX ? 0 umint/XnNE .
+SFX ? 0 umint½/XnNE .
 SFX ? 0 umintin/XnN .
-SFX ? 0 umem/XnN .
-SFX ? 0 umemul/XnN .
+SFX ? 0 umem½/XnN .
+SFX ? 0 umemul½/XnN .
 SFX ? 0 umemulin/XnN .
-SFX ? 0 umpov/XnN .
-SFX ? 0 umkapabl/XnN .
+SFX ? 0 umpov½/XnN .
+SFX ? 0 umkapabl½/XnN .
 
-SFX % Y 25
+SFX % Y 27
 SFX % 0 eto½/XV .
 SFX % 0 eta½/XnN .
-SFX % 0 etant/XnNE .
+SFX % 0 ete½/XV .
+SFX % 0 et½/XnN .
+SFX % 0 etant½/XnNE .
 SFX % 0 etantin/XnN .
-SFX % 0 etont/XnNE .
+SFX % 0 etont½/XnNE .
 SFX % 0 etontin/XnN .
-SFX % 0 etint/XnNE .
+SFX % 0 etint½/XnNE .
 SFX % 0 etintin/XnN .
-SFX % 0 etem/XnN .
-SFX % 0 etemul/XnN .
+SFX % 0 etem½/XnN .
+SFX % 0 etemul½/XnN .
 SFX % 0 etemulin/XnN .
-SFX % 0 etpov/XnN .
-SFX % 0 etkapabl/XnN .
+SFX % 0 etpov½/XnN .
+SFX % 0 etkapabl½/XnN .
 SFX % 0 etat/XnNE .
 SFX % 0 etatin/XnN .
 SFX % 0 etot/XnNE .
 SFX % 0 etotin/XnN .
-SFX % 0 etit/XnNE .
-SFX % 0 etitin/XnN .
-SFX % 0 etind/XnN .
-SFX % 0 etindaĵ/XnN .
-SFX % 0 etend/XnN .
-SFX % 0 etendaĵ/XnN .
-SFX % 0 etebl/XnN .
-SFX % 0 eteblaĵ/XnN .
+SFX % 0 etit½/XnNE .
+SFX % 0 etitin½/XnN .
+SFX % 0 etind½/XnN .
+SFX % 0 etindaĵ½/XnN .
+SFX % 0 etend½/XnN .
+SFX % 0 etendaĵ½/XnN .
+SFX % 0 etebl½/XnN .
+SFX % 0 eteblaĵ½/XnN .
 
-SFX & Y 25
+SFX & Y 27
 SFX & 0 ego½/XV .
 SFX & 0 ega½/XnN .
-SFX & 0 egant/XnNE .
+SFX & 0 eg½/XV .
+SFX & 0 eg½/XnN .
+SFX & 0 egant½/XnNE .
 SFX & 0 egantin/XnN .
-SFX & 0 egont/XnNE .
+SFX & 0 egont½/XnNE .
 SFX & 0 egontin/XnN .
-SFX & 0 egint/XnNE .
+SFX & 0 egint½/XnNE .
 SFX & 0 egintin/XnN .
-SFX & 0 egem/XnN .
-SFX & 0 egemul/XnN .
+SFX & 0 egem½/XnN .
+SFX & 0 egemul½/XnN .
 SFX & 0 egemulin/XnN .
-SFX & 0 egpov/XnN .
-SFX & 0 egkapabl/XnN .
-SFX & 0 egat/XnNE .
+SFX & 0 egpov½/XnN .
+SFX & 0 egkapabl½/XnN .
+SFX & 0 egat½/XnNE .
 SFX & 0 egatin/XnN .
-SFX & 0 egot/XnNE .
-SFX & 0 egotin/XnN .
-SFX & 0 egit/XnNE .
+SFX & 0 egot½/XnNE .
+SFX & 0 egotin½/XnN .
+SFX & 0 egit½/XnNE .
 SFX & 0 egitin/XnN .
-SFX & 0 egind/XnN .
-SFX & 0 egindaĵ/XnN .
-SFX & 0 egend/XnN .
-SFX & 0 egendaĵ/XnN .
-SFX & 0 egebl/XnN .
-SFX & 0 egeblaĵ/XnN .
+SFX & 0 egind½/XnN .
+SFX & 0 egindaĵ½/XnN .
+SFX & 0 egend½/XnN .
+SFX & 0 egendaĵ½/XnN .
+SFX & 0 egebl½/XnN .
+SFX & 0 egeblaĵ½/XnN .
 
-SFX ( Y 25
+SFX ( Y 27
 SFX ( 0 umo½/XV .
 SFX ( 0 uma½/XnN .
-SFX ( 0 umant/XnNE .
-SFX ( 0 umantin/XnN .
-SFX ( 0 umont/XnNE .
-SFX ( 0 umontin/XnN .
-SFX ( 0 umint/XnNE .
-SFX ( 0 umintin/XnN .
-SFX ( 0 umem/XnN .
-SFX ( 0 umemul/XnN .
-SFX ( 0 umemulin/XnN .
-SFX ( 0 umpov/XnN .
-SFX ( 0 umkapabl/XnN .
-SFX ( 0 umat/XnNE .
-SFX ( 0 umatin/XnN .
-SFX ( 0 umot/XnNE .
-SFX ( 0 umotin/XnN .
-SFX ( 0 umit/XnNE .
-SFX ( 0 umitin/XnN .
-SFX ( 0 umind/XnN .
-SFX ( 0 umindaĵ/XnN .
-SFX ( 0 umend/XnN .
-SFX ( 0 umendaĵ/XnN .
-SFX ( 0 umebl/XnN .
-SFX ( 0 umeblaĵ/XnN .
+SFX ( 0 um½/XV .
+SFX ( 0 ume½/XnN .
+SFX ( 0 umant½/XnNE .
+SFX ( 0 umanta½/XnN .
+SFX ( 0 umont½/XnNE .
+SFX ( 0 umonta½/XnN .
+SFX ( 0 umint½/XnNE .
+SFX ( 0 uminta½/XnN .
+SFX ( 0 umem½/XnN .
+SFX ( 0 umemul½/XnN .
+SFX ( 0 umemulo½/XnN .
+SFX ( 0 umpov½/XnN .
+SFX ( 0 umkapabl½/XnN .
+SFX ( 0 umat½/XnNE .
+SFX ( 0 umato½/XnN .
+SFX ( 0 umot½/XnNE .
+SFX ( 0 umoto½/XnN .
+SFX ( 0 umit½/XnNE .
+SFX ( 0 umito½/XnN .
+SFX ( 0 umind½/XnN .
+SFX ( 0 uminda½/XnN .
+SFX ( 0 umend½/XnN .
+SFX ( 0 umenda½/XnN .
+SFX ( 0 umebl½/XnN .
+SFX ( 0 umebla½/XnN .
 
 SFX À Y 13
-SFX À 0 iĝad/XV .
-SFX À 0 iĝad/XnN .
-SFX À 0 iĝadant/XnNE .
-SFX À 0 iĝadantin/XnN .
-SFX À 0 iĝadont/XnNE .
+SFX À 0 iĝad½/XV .
+SFX À 0 iĝad½/XnN .
+SFX À 0 iĝada½/XnNE .
+SFX À 0 iĝado½/XnN .
+SFX À 0 iĝadi½/XnNE .
 SFX À 0 iĝadontin/XnN .
 SFX À 0 iĝadint/XnNE .
 SFX À 0 iĝadintin/XnN .
@@ -504,10 +563,10 @@ SFX À 0 iĝadpov/XnN .
 SFX À 0 iĝadkapabl/XnN .
 
 SFX Â Y 13
-SFX Â 0 etad/XV .
-SFX Â 0 etad/XnN .
-SFX Â 0 etadant/XnNE .
-SFX Â 0 etadantin/XnN .
+SFX Â 0 etad½/XV .
+SFX Â 0 etad½/XnN .
+SFX Â 0 etada½/XnNE .
+SFX Â 0 etado½/XnN .
 SFX Â 0 etadont/XnNE .
 SFX Â 0 etadontin/XnN .
 SFX Â 0 etadint/XnNE .
@@ -520,133 +579,133 @@ SFX Â 0 etadkapabl/XnN .
 
 SFX Ã Y 13
 SFX Ã 0 umado½/XV .
-SFX Ã 0 umad/XnN .
-SFX Ã 0 umadant/XnNE .
-SFX Ã 0 umadantin/XnN .
-SFX Ã 0 umadont/XnNE .
-SFX Ã 0 umadontin/XnN .
-SFX Ã 0 umadint/XnNE .
-SFX Ã 0 umadintin/XnN .
-SFX Ã 0 umadem/XnN .
-SFX Ã 0 umademul/XnN .
-SFX Ã 0 umademulin/XnN .
-SFX Ã 0 umadpov/XnN .
-SFX Ã 0 umadkapabl/XnN .
+SFX Ã 0 umad½/XnN .
+SFX Ã 0 umadant½/XnNE .
+SFX Ã 0 umadanto½/XnN .
+SFX Ã 0 umadont½/XnNE .
+SFX Ã 0 umadonto½/XnN .
+SFX Ã 0 umadint½/XnNE .
+SFX Ã 0 umadinto½/XnN .
+SFX Ã 0 umadem½/XnN .
+SFX Ã 0 umademo½/XnN .
+SFX Ã 0 umademul½/XnN .
+SFX Ã 0 umadpov½/XnN .
+SFX Ã 0 umadkapabl½/XnN .
 
 SFX Ç Y 13
-SFX Ç 0 etiĝ/XV .
-SFX Ç 0 etiĝ/XnN .
-SFX Ç 0 etiĝant/XnNE .
-SFX Ç 0 etiĝantin/XnN .
-SFX Ç 0 etiĝont/XnNE .
-SFX Ç 0 etiĝontin/XnN .
-SFX Ç 0 etiĝint/XnNE .
-SFX Ç 0 etiĝintin/XnN .
-SFX Ç 0 etiĝem/XnN .
-SFX Ç 0 etiĝemul/XnN .
+SFX Ç 0 etiĝ½/XV .
+SFX Ç 0 etiĝ½/XnN .
+SFX Ç 0 etiĝant½/XnNE .
+SFX Ç 0 etiĝanto½/XnN .
+SFX Ç 0 etiĝont½/XnNE .
+SFX Ç 0 etiĝonto½/XnN .
+SFX Ç 0 etiĝint½/XnNE .
+SFX Ç 0 etiĝinto½/XnN .
+SFX Ç 0 etiĝem½/XnN .
+SFX Ç 0 etiĝemo½/XnN .
 SFX Ç 0 etiĝemulin/XnN .
-SFX Ç 0 etiĝpov/XnN .
-SFX Ç 0 etiĝkapabl/XnN .
+SFX Ç 0 etiĝpov½/XnN .
+SFX Ç 0 etiĝkapabl½/XnN .
 
 SFX È Y 13
 SFX È 0 aĉa½/XV .
-SFX È 0 aĉ/XnN .
-SFX È 0 aĉant/XnNE .
-SFX È 0 aĉantin/XnN .
-SFX È 0 aĉont/XnNE .
-SFX È 0 aĉontin/XnN .
-SFX È 0 aĉint/XnNE .
-SFX È 0 aĉintin/XnN .
-SFX È 0 aĉem/XnN .
-SFX È 0 aĉemul/XnN .
-SFX È 0 aĉemulin/XnN .
-SFX È 0 aĉpov/XnN .
-SFX È 0 aĉkapabl/XnN .
+SFX È 0 aĉ½/XnN .
+SFX È 0 aĉant½/XnNE .
+SFX È 0 aĉanto½/XnN .
+SFX È 0 aĉont½/XnNE .
+SFX È 0 aĉonto½/XnN .
+SFX È 0 aĉint½/XnNE .
+SFX È 0 aĉinto½/XnN .
+SFX È 0 aĉem½/XnN .
+SFX È 0 aĉemul½/XnN .
+SFX È 0 aĉemulo½/XnN .
+SFX È 0 aĉpov½/XnN .
+SFX È 0 aĉkapabl½/XnN .
 
 SFX É Y 25
 SFX É 0 igado½/XV .
-SFX É 0 igad/XnN .
-SFX É 0 igadant/XnNE .
-SFX É 0 igadantin/XnN .
-SFX É 0 igadont/XnNE .
-SFX É 0 igadontin/XnN .
-SFX É 0 igadint/XnNE .
-SFX É 0 igadintin/XnN .
-SFX É 0 igadem/XnN .
-SFX É 0 igademul/XnN .
-SFX É 0 igademulin/XnN .
-SFX É 0 igadpov/XnN .
-SFX É 0 igadkapabl/XnN .
-SFX É 0 igadat/XnNE .
-SFX É 0 igadatin/XnN .
-SFX É 0 igadot/XnNE .
-SFX É 0 igadotin/XnN .
-SFX É 0 igadit/XnNE .
-SFX É 0 igaditin/XnN .
-SFX É 0 igadind/XnN .
-SFX É 0 igadindaĵ/XnN .
-SFX É 0 igadend/XnN .
-SFX É 0 igadendaĵ/XnN .
-SFX É 0 igadebl/XnN .
-SFX É 0 igadeblaĵ/XnN .
+SFX É 0 igad½/XnN .
+SFX É 0 igadant½/XnNE .
+SFX É 0 igadanta½/XnN .
+SFX É 0 igadont½/XnNE .
+SFX É 0 igadonta½/XnN .
+SFX É 0 igadint½/XnNE .
+SFX É 0 igadinta½/XnN .
+SFX É 0 igadem½/XnN .
+SFX É 0 igademul½/XnN .
+SFX É 0 igademulo½/XnN .
+SFX É 0 igadpov½/XnN .
+SFX É 0 igadkapabl½/XnN .
+SFX É 0 igadat½/XnNE .
+SFX É 0 igadato½/XnN .
+SFX É 0 igadot½/XnNE .
+SFX É 0 igadoto½/XnN .
+SFX É 0 igadit½/XnNE .
+SFX É 0 igadito½/XnN .
+SFX É 0 igadind½/XnN .
+SFX É 0 igadinda½/XnN .
+SFX É 0 igadend½/XnN .
+SFX É 0 igadenda½/XnN .
+SFX É 0 igadebl½/XnN .
+SFX É 0 igadebla½/XnN .
 
 SFX Ê Y 25
-SFX Ê 0 etad/XV .
-SFX Ê 0 etad/XnN .
-SFX Ê 0 etadant/XnNE .
-SFX Ê 0 etadantin/XnN .
-SFX Ê 0 etadont/XnNE .
-SFX Ê 0 etadontin/XnN .
-SFX Ê 0 etadint/XnNE .
-SFX Ê 0 etadintin/XnN .
-SFX Ê 0 etadem/XnN .
-SFX Ê 0 etademul/XnN .
+SFX Ê 0 etad½/XV .
+SFX Ê 0 etad½/XnN .
+SFX Ê 0 etadant½/XnNE .
+SFX Ê 0 etadanto½/XnN .
+SFX Ê 0 etadont½/XnNE .
+SFX Ê 0 etadonto½/XnN .
+SFX Ê 0 etadint½/XnNE .
+SFX Ê 0 etadinto½/XnN .
+SFX Ê 0 etadem½/XnN .
+SFX Ê 0 etademo½/XnN .
 SFX Ê 0 etademulin/XnN .
-SFX Ê 0 etadpov/XnN .
-SFX Ê 0 etadkapabl/XnN .
-SFX Ê 0 etadat/XnNE .
+SFX Ê 0 etadpov½/XnN .
+SFX Ê 0 etadkapabl½/XnN .
+SFX Ê 0 etadat½/XnNE .
 SFX Ê 0 etadatin/XnN .
-SFX Ê 0 etadot/XnNE .
+SFX Ê 0 etadot½/XnNE .
 SFX Ê 0 etadotin/XnN .
-SFX Ê 0 etadit/XnNE .
+SFX Ê 0 etadit½/XnNE .
 SFX Ê 0 etaditin/XnN .
-SFX Ê 0 etadind/XnN .
+SFX Ê 0 etadind½/XnN .
 SFX Ê 0 etadindaĵ/XnN .
-SFX Ê 0 etadend/XnN .
+SFX Ê 0 etadend½/XnN .
 SFX Ê 0 etadendaĵ/XnN .
-SFX Ê 0 etadebl/XnN .
+SFX Ê 0 etadebl½/XnN .
 SFX Ê 0 etadeblaĵ/XnN .
 
 SFX Ï Y 25
 SFX Ï 0 umado½/XV .
-SFX Ï 0 umad/XnN .
-SFX Ï 0 umadant/XnNE .
+SFX Ï 0 umad½/XnN .
+SFX Ï 0 umadant½/XnNE .
 SFX Ï 0 umadantin/XnN .
-SFX Ï 0 umadont/XnNE .
+SFX Ï 0 umadont½/XnNE .
 SFX Ï 0 umadontin/XnN .
-SFX Ï 0 umadint/XnNE .
+SFX Ï 0 umadint½/XnNE .
 SFX Ï 0 umadintin/XnN .
-SFX Ï 0 umadem/XnN .
-SFX Ï 0 umademul/XnN .
+SFX Ï 0 umadem½/XnN .
+SFX Ï 0 umademul½/XnN .
 SFX Ï 0 umademulin/XnN .
-SFX Ï 0 umadpov/XnN .
-SFX Ï 0 umadkapabl/XnN .
-SFX Ï 0 umadat/XnNE .
+SFX Ï 0 umadpov½/XnN .
+SFX Ï 0 umadkapabl½/XnN .
+SFX Ï 0 umadat½/XnNE .
 SFX Ï 0 umadatin/XnN .
-SFX Ï 0 umadot/XnNE .
+SFX Ï 0 umadot½/XnNE .
 SFX Ï 0 umadotin/XnN .
-SFX Ï 0 umadit/XnNE .
+SFX Ï 0 umadit½/XnNE .
 SFX Ï 0 umaditin/XnN .
-SFX Ï 0 umadind/XnN .
+SFX Ï 0 umadind½/XnN .
 SFX Ï 0 umadindaĵ/XnN .
-SFX Ï 0 umadend/XnN .
+SFX Ï 0 umadend½/XnN .
 SFX Ï 0 umadendaĵ/XnN .
-SFX Ï 0 umadebl/XnN .
+SFX Ï 0 umadebl½/XnN .
 SFX Ï 0 umadeblaĵ/XnN .
 
 SFX Ë Y 25
 SFX Ë 0 etigo½/XV .
-SFX Ë 0 etig/XnN .
+SFX Ë 0 etig½/XnN .
 SFX Ë 0 etigant/XnNE .
 SFX Ë 0 etigantin/XnN .
 SFX Ë 0 etigont/XnNE .
@@ -672,8 +731,8 @@ SFX Ë 0 etigebl/XnN .
 SFX Ë 0 etigeblaĵ/XnN .
 
 SFX Ì Y 25
-SFX Ì 0 aĉ/XV .
-SFX Ì 0 aĉ/XnN .
+SFX Ì 0 aĉ½/XV .
+SFX Ì 0 aĉa½/XnN .
 SFX Ì 0 aĉant/XnNE .
 SFX Ì 0 aĉantin/XnN .
 SFX Ì 0 aĉont/XnNE .
@@ -690,7 +749,7 @@ SFX Ì 0 aĉatin/XnN .
 SFX Ì 0 aĉot/XnNE .
 SFX Ì 0 aĉotin/XnN .
 SFX Ì 0 aĉit/XnNE .
-SFX Ì 0 aĉitin/XnN .
+SFX Ì 0 aĉita/XnN .
 SFX Ì 0 aĉind/XnN .
 SFX Ì 0 aĉindaĵ/XnN .
 SFX Ì 0 aĉend/XnN .
@@ -704,21 +763,21 @@ SFX K Y 7
 SFX K 0 ano½/2XN€ .
 SFX K 0 anino½/2XN€ .
 SFX K 0 ana½/543 .
-SFX K 0 an-/543 .
-SFX K 0 ano/543 .
-SFX K 0 anin/543 .
-SFX K 0 anino/543 .
+SFX K 0 an½/543 .
+SFX K 0 ano½/543 .
+SFX K 0 anin½/543 .
+SFX K 0 anino½/543 .
 
 SFX S Y 4
 SFX S 0 isto½/2XN€ .
 SFX S 0 istino½/2XN€ .
 SFX S 0 ista½/543 .
-SFX S 0 ist-/543 .
+SFX S 0 ist½/543 .
 
 
 SFX L Y 5
 SFX L 0 ilo½/2XN€ .
-SFX L 0 il/543 .
+SFX L 0 il½/543 .
 SFX L 0 il-/543 .
 SFX L 0 ilo/543 .
 SFX L 0 ilo-/543 .
@@ -726,14 +785,14 @@ SFX L 0 ilo-/543 .
 SFX J Y 5
 SFX J 0 ejo½/2XN€ .
 SFX J 0 eja½/543 .
-SFX J 0 ej-/543 .
+SFX J 0 ej½/543 .
 SFX J 0 ejo/543 .
 SFX J 0 ejo-/543 .
 
 SFX U Y 5
 SFX U 0 ujo½/2XN .
 SFX U 0 uja½/543 .
-SFX U 0 uj-/543 .
+SFX U 0 uj½/543 .
 SFX U 0 ujo/543 .
 SFX U 0 ujo-/543 .
 
@@ -741,79 +800,86 @@ SFX M Y 5
 SFX M 0 ismo½/2XN .
 SFX M 0 isma½/543 .
 SFX M 0 ismo/543 .
-SFX M 0 ism-/543 .
+SFX M 0 ism½/543 .
 SFX M 0 ismo-/543 .
 
 SFX R Y 5
 SFX R 0 aro½/2XN .
 SFX R 0 ara½/543 .
 SFX R 0 aro/543 .
-SFX R 0 ar-/543 .
+SFX R 0 ar½/543 .
 SFX R 0 aro-/543 .
 
 SFX P Y 2
 SFX P 0 ero½/2XN .
-SFX P 0 er/543 .
+SFX P 0 er½/543 .
 
 SFX W Y 3
 SFX W 0 ego½/2XN .
 SFX W 0 ega½/543 .
-SFX W 0 eg-/543 .
+SFX W 0 eg½/543 .
 
 SFX H Y 3
 SFX H 0 eto½/2XN .
 SFX H 0 eta½/543 .
-SFX H 0 et-/543 .
+SFX H 0 et½/543 .
 
-SFX Y Y 2
+SFX Y Y 3
 SFX Y 0 ido½/XN .
 SFX Y 0 ida½/543 .
+SFX Y 0 id½/543 .
 
 SFX Ż Y 3
 SFX Ż 0 aĉo½/XN .
 SFX Ż 0 aĉa½/543 .
-SFX Ż 0 aĉ-/543 .
+SFX Ż 0 aĉ½/543 .
 
 SFX Q Y 5
 SFX Q 0 ino½/XN .
 SFX Q 0 ina½/543 .
 SFX Q 0 ino/543 .
 SFX Q 0 ino-/543 .
-SFX Q 0 in-/543 .
+SFX Q 0 in½/543 .
 
 SFX Ü Y 3
 SFX Ü 0 aĵo½/XN .
 SFX Ü 0 aĵa½/543 .
-SFX Ü 0 aĵ-/543 .
+SFX Ü 0 aĵ½/543 .
 
-SFX Ó Y 2
+SFX Ó Y 4
 SFX Ó 0 estro½/XN .
 SFX Ó 0 estrino½/XN .
+SFX Ó 0 estr½/XN .
+SFX Ó 0 estrin½/XN .
 
 SFX Ł Y 5
-SFX Ł 0 um/XN .
-SFX Ł 0 um/543 .
+SFX Ł 0 um½/XN .
+SFX Ł 0 ume½/543 .
 SFX Ł 0 umo½/543 .
-SFX Ł 0 um-/543 .
-SFX Ł 0 umo-/543 .
+SFX Ł 0 um½/543 .
+SFX Ł 0 uma½/543 .
 
-SFX Ą Y 1
+SFX Ą Y 4
+SFX Ą 0 ing½/XN .
 SFX Ą 0 ingo½/XN .
+SFX Ą 0 inge½/XN .
+SFX Ą 0 inga½/XN .
 
 SFX Ć Y 3
-SFX Ć 0 ul/XN€ .
-SFX Ć 0 ul/543 .
+SFX Ć 0 ul½/XN€ .
+SFX Ć 0 ul½/543 .
 SFX Ć 0 ulo½/543 .
 
 SFX Ę Y 5
-SFX Ę 0 ad/XN .
-SFX Ę 0 ad/543 .
+SFX Ę 0 ad½/XN .
+SFX Ę 0 ad½/543 .
 SFX Ę 0 ado½/543 .
-SFX Ę 0 ad-/543 .
-SFX Ę 0 ado-/543 .
+SFX Ę 0 ada½/543 .
+SFX Ę 0 ade½/543 .
 
 # baza verbo
-SFX V Y 6
+SFX V Y 7
+SFX V 0 ½ .
 SFX V 0 i½ .
 SFX V 0 os½ .
 SFX V 0 is½ .
@@ -823,42 +889,44 @@ SFX V 0 u½ .
 
 # Transitivaj verboj (aldone al I)
 SFX T Y 17
-SFX T 0 at/2XnNE .
-SFX T 0 atin/2XnN .
-SFX T 0 ot/2XnNE .
-SFX T 0 otin/2XnN .
-SFX T 0 it/2XnNE .
-SFX T 0 itin/2XnN .
-SFX T 0 ind/2XnNVE .
-SFX T 0 indaĵ/2XnN .
-SFX T 0 end/2XnNV .
-SFX T 0 endaĵ/2XnN .
-SFX T 0 ebl/2XnNVE .
-SFX T 0 eblaĵ/2XnN .
-SFX T 0 aĵ/2XnN .
-SFX T 0 aĵ/543 .
-SFX T 0 at/543 .
-SFX T 0 it/543 .
-SFX T 0 ot/543 .
+SFX T 0 at½/2XnNE .
+SFX T 0 atin½/2XnN .
+SFX T 0 ot½/2XnNE .
+SFX T 0 otin½/2XnN .
+SFX T 0 it½/2XnNE .
+SFX T 0 itin½/2XnN .
+SFX T 0 inda½/2XnNVE .
+SFX T 0 indaĵ½/2XnN .
+SFX T 0 end½/2XnNV .
+SFX T 0 endaĵ½/2XnN .
+SFX T 0 ebl½/2XnNVE .
+SFX T 0 eblaĵ½/2XnN .
+SFX T 0 aĵ½/2XnN .
+SFX T 0 aĵ½/543 .
+SFX T 0 at½/543 .
+SFX T 0 it½/543 .
+SFX T 0 ot½/543 .
 
 # nombroj (ankaux psuedo nombroj kiel "kelk")
-SFX # Y 20
-SFX # 0 0/XNE .
-SFX # 0 op/XNE .
-SFX # 0 obl/XNE .
-SFX # 0 oblig/XNV .
-SFX # 0 obligat/XNE .
-SFX # 0 obligot/XNVE .
-SFX # 0 obligit/XNVE .
-SFX # 0 obligant/XNE .
-SFX # 0 obligont/XNVE .
-SFX # 0 obligint/XNVE .
-SFX # 0 obligil/XN .
-SFX # 0 on/XNE .
-SFX # 0 onig/XNV .
-SFX # 0 onigat/XNE .
-SFX # 0 onigot/XNVE .
-SFX # 0 onigit/XNVE .
+SFX # Y 22
+SFX # 0 ½/XNE .
+SFX # 0 op½/XNE .
+SFX # 0 opa½/XNE .
+SFX # 0 ope½/XNVE .
+SFX # 0 obl½/XNE .
+SFX # 0 oblig½/XNV .
+SFX # 0 obliga½/XNE .
+SFX # 0 obligo½/XNVE .
+SFX # 0 obligi½/XNVE .
+SFX # 0 obla½/XNE .
+SFX # 0 oble½/XNVE .
+SFX # 0 obli½/XNVE .
+SFX # 0 obligilo½/XN .
+SFX # 0 on½/XNE .
+SFX # 0 onig½/XNV .
+SFX # 0 oniga½/XNE .
+SFX # 0 onigo½/XNVE .
+SFX # 0 onigi½/XNVE .
 SFX # 0 onigant/XNE .
 SFX # 0 onigont/XNVE .
 SFX # 0 onigint/XNVE .
@@ -879,21 +947,21 @@ PFX ' 0 naŭ .
 # tablovortoj
 SFX < Y 16
 SFX < 0 0/N .
-SFX < 0 u .
-SFX < 0 un .
-SFX < 0 uj .
-SFX < 0 ujn .
-SFX < 0 el .
-SFX < 0 e .
-SFX < 0 en .
-SFX < 0 am .
-SFX < 0 om .
-SFX < 0 oma .
-SFX < 0 oman .
-SFX < 0 omaj .
-SFX < 0 omajn .
-SFX < 0 al .
-SFX < 0 es .
+SFX < 0 u½ .
+SFX < 0 un½ .
+SFX < 0 uj½ .
+SFX < 0 ujn½ .
+SFX < 0 el½ .
+SFX < 0 e½ .
+SFX < 0 en½ .
+SFX < 0 am½ .
+SFX < 0 om½ .
+SFX < 0 oma½ .
+SFX < 0 oman½ .
+SFX < 0 omaj½ .
+SFX < 0 omajn½ .
+SFX < 0 al½ .
+SFX < 0 es½ .
 
 # Pronomoj li lia ....
 SFX > Y 5
@@ -1094,7 +1162,8 @@ PFX | Ĝ ĝ Ĝ
 PFX | Ĵ ĵ Ĵ
 
 
-SFX @ Y 8
+SFX @ Y 9
+SFX @ 0 ½ .
 SFX @ 0 o½ .
 SFX @ 0 on½ .
 SFX @ 0 e½/| .
@@ -1126,7 +1195,8 @@ SFX + 0 ojn .
 # Lingvoj
 # germana germane germanlingva (ano) germanparolanto germanisto germanismo
 
-SFX - Y 8
+SFX - Y 9
+SFX - 0 ½ .
 SFX - 0 a½ .
 SFX - 0 an½ .
 SFX - 0 aj½ .
@@ -1134,6 +1204,6 @@ SFX - 0 ajn½ .
 SFX - 0 0/2XESM .
 SFX - 0 lingva½/XNEK .
 SFX - 0 parolanta½/X+ .
-SFX - 0 traduk/XN .
+SFX - 0 traduk½/XN .
 
 
