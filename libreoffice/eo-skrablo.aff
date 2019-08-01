@@ -121,7 +121,7 @@ SFX E 0 e½ .
 
 # Adjektiva radiko
 
-SFX A Y 67
+SFX A Y 70
 SFX A 0 0/2XmNEV€ .
 SFX A 0 eg½/2XmNEV .
 SFX A 0 ega½/2XmNEV .
@@ -170,6 +170,9 @@ SFX A 0 igil½/2XpN .
 SFX A 0 0/543 .
 SFX A 0 ½/543 .
 SFX A 0 o½/543 .
+SFX A 0 on½/543 .
+SFX A 0 oj½/543 .
+SFX A 0 ojn½/543 .
 SFX A 0 -/543 .
 SFX A 0 ega½/543 .
 SFX A 0 ego½/543 .
