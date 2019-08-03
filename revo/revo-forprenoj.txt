@@ -2,15 +2,48 @@
 # Listo de vortoj kiuj estas forprenitaj de ReVo
 # 
 
+
+#  Sud-hemisfera stelfiguro (Puppis) - propra nomo
+pobo
+
+# propra nomo
+tao
+
+
 # Blekoj
 bac
+
+# Formod de 'be!'
+bei
+beo
+
+
+eke
+ehe
+fri
+
+hati
+hata
+hot
+hoto
+hui
+hu
+huj
+iai
+iao
 
 bat
 
 blabla
 bla
 
+baf
+brr
+
+aĥi
+
 bum
+ĉit
 
 frap
 
@@ -57,7 +90,6 @@ snuf
 sss
 
 
-ŝov 
 ŝov
 
 # en ordo - ankaŭ substantivo/verbo en si mem
@@ -68,7 +100,6 @@ sss
 ŝuŝo
 
 ta
-ta
 
 tiktak
 
@@ -76,7 +107,8 @@ tiktak
 # tinto
 
 tin
-tin
+tpr
+tss
 
 trateratra
 
@@ -111,6 +143,7 @@ kvivit
 mek
 miaŭ
 mu
+muu
 pep
 # en ordo - ankaŭ verboj
 # rori
