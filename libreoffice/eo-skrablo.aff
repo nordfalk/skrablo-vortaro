@@ -242,7 +242,7 @@ SFX Ō 0 0/XN .
 
 # Verba radiko
 
-SFX I Y 32
+SFX I Y 38
 SFX I 0 0/2XV .
 SFX I 0 0/2XnN€ .
 SFX I 0 anto½/2XnNE .
@@ -257,7 +257,17 @@ SFX I 0 emulo½/2XnN .
 SFX I 0 povo½/2XnN .
 SFX I 0 kapablo½/2XnN .
 SFX I 0 ado½/2XnN€ .
+SFX I 0 0/543 .
+SFX I 0 o½/543 .
+SFX I 0 o-/543 .
+SFX I 0 -/543 .
 SFX I 0 ½/2XV .
+SFX I 0 i½ .
+SFX I 0 os½ .
+SFX I 0 is½ .
+SFX I 0 as½ .
+SFX I 0 us½ .
+SFX I 0 u½ .
 SFX I 0 ½/2XnN€ .
 SFX I 0 ant½/2XnNE .
 SFX I 0 antin½/2XnN .
@@ -271,10 +281,7 @@ SFX I 0 emulo½/2XnN .
 SFX I 0 pov½/2XnN .
 SFX I 0 kapabl½/2XnN .
 SFX I 0 ad½/2XnN€ .
-SFX I 0 0/543 .
-SFX I 0 o½/543 .
-SFX I 0 o-/543 .
-SFX I 0 -/543 .
+
 
 SFX Ī Y 26
 SFX Ī 0 ½/XV .

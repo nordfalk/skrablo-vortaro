@@ -1,6 +1,8 @@
 
-# https://extensions.libreoffice.org/extensions/esperanto-spellchecker-thesaurus-and-hyphenizer/1.01
-
+# Fonto: https://extensions.libreoffice.org/extensions/esperanto-spellchecker-thesaurus-and-hyphenizer/1.01
+# kiu direktas al http://esperanto.mv.ru/Download/  - sed la enhavo (eo.dic kaj eo.aff) ŝajnas esti de 2010
+#
+# Alia fonto estus https://github.com/wooorm/dictionaries/tree/master/dictionaries/eo sed ĝi ne ŝajnas esti pli nova
 
 all: libreoffice-listo.txt
 clean: 
