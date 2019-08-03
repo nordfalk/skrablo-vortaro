@@ -192,6 +192,12 @@ SFX A 0 ul½/543 .
 SFX A 0 aĵ½/543 .
 SFX A 0 aĵ½/543 .
 SFX A 0 ig½/543 .
+SFX A 0 i½ .
+SFX A 0 os½ .
+SFX A 0 is½ .
+SFX A 0 as½ .
+SFX A 0 us½ .
+SFX A 0 u½ .
 
 
 # A sen vortfarado
@@ -223,19 +229,28 @@ SFX Ā 0 iganta½/XpnNE .
 SFX Ā 0 igonta½/XpnNE .
 SFX Ā 0 iginta½/XpnNE .
 SFX Ā 0 igilo½/XpN .
+SFX Ā 0 i½ .
+SFX Ā 0 os½ .
+SFX Ā 0 is½ .
+SFX Ā 0 as½ .
+SFX Ā 0 us½ .
+SFX Ā 0 u½ .
 
 # nur adjektivo kaj adverbo
 
 SFX Å Y 1
 SFX Å 0 0/XNE .
 
-SFX O Y 6
+SFX O Y 9
 SFX O 0 ' .
 SFX O 0 0/2XN€ .
 SFX O 0 0/543 .
 SFX O 0 o-/543 .
 SFX O 0 ½/543 .
 SFX O 0 o½/543 .
+SFX O 0 oj½/543 .
+SFX O 0 on½/543 .
+SFX O 0 ojn½/543 .
 
 SFX Ō Y 1
 SFX Ō 0 0/XN .
@@ -310,6 +325,12 @@ SFX Ī 0 emulo½/XnN .
 SFX Ī 0 pov½/XnN .
 SFX Ī 0 kapabl½/XnN .
 SFX Ī 0 ad½/XnN .
+SFX Ī 0 i½ .
+SFX Ī 0 os½ .
+SFX Ī 0 is½ .
+SFX Ī 0 as½ .
+SFX Ī 0 us½ .
+SFX Ī 0 u½ .
 
 
 SFX G Y 47
