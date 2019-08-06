@@ -3,6 +3,11 @@ Diversaj iloj por fari vortarojn por Skrablo kaj similaj ludoj
 
 La listo estas uzata por https://vortludo.com/
 
+La vortaro havas la vortojn de la du plej popularaj literumkontroliloj en Esperanto - nome LibreOffice kaj Aspell.
+La vortoj de Reta Vortaro (http://reta-vortaro.de) estas aldonita por permesi modernajn vortojn, kiel 'mojose' kaj 'ri'.
+Propraj nomoj estas ne permesataj. Krome la eblecoj kunmeti afiksojn kaj vortoj en nekonataj kombinaĵoj estas limigita.
+
+
 ## Pensoj pri kreado de skrablo-vortaro
 Estas malfacile decidi kiujn vortojn estu permesataj.
 
@@ -17,16 +22,13 @@ Mi konsultis Eckhard Bick (esperantisto kaj profesia lingvisto), kaj decidis ke 
 La unua estas 'strikta' kiu nur enhavas la 27.000 vortojn de Reta Vortaro, kun neniuj afiksoj krom tiuj rekte menciitaj en ReVo.
 La alia enhavas 6.670.000 vortojn de la du plej popularaj literumkontroloj, nome Aspell kaj LibreOffice. 
 Ambaŭ vortlistoj devus esti forte prilaboritaj, ekzemple por forpreni propraj nomoj kaj limigi vortfaradon al realismaj niveloj.
-Interesatoj povas viziti https://github.com/nordfalk/skrablo-vortaro kie mi tenas la programojn por krei la vortlistojn.
 
 Finfine la https://vortludo.com/ publikiĝis nur kun la granda vortlisto, sed eble la alia aldoniĝos poste. 
 
+La programo kiu kreas la vortliston estas publikigita ĉe https://github.com/nordfalk/skrablo-vortaro.
 
-## Planoj
+## Mencioj
 
-En venonta versio mi aldonos pli da vortoj al la literumkontrolaj vortlisto. 
-Temas pri vortoj kiu mankas en akuzative formo (ekzemple mankas 'picon') kaj vortoj kiuj populariĝis dum la pasinta jardeko, ekzemple 'ri' kaj 'mojosa'.
-Ĉirkaŭ 4000 vortformoj de ReVo eĉ mankas en la granda vortlisto. Tio povas ŝajni granda numero, sed estas tute normala se oni komparas vortlistojn, ĉar ekziistas multege da tre tre maloftaj vortoj (ekzemple: aĉettaŝo, aerkastelo, brankoklapo, ĉirkaŭskrapi). La listo de LibreOffice estas vere la plej bona, vaste uzata kaj granda, kaj mi esperas ke ĝi estos iam ĝisdatigita kun pli da vortoj, tiel ke mi povas baziĝi nur sur ĝi.
-
+https://www.liberafolio.org/2019/08/02/vortludo-vortludo-ne-permesas-miauindon/
 
 
